@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="amqp-rabbit 1.0.6">
+    <output-path>$PROJECT_DIR$/out/artifacts/amqp_rabbit_1_0_6</output-path>
+    <root id="archive" name="amqp-rabbit 1.0.6.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="amqp-rabbit" />
+    </root>
+  </artifact>
+</component>

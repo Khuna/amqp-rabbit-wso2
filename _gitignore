@@ -1,0 +1,9 @@
+*.class
+out/artifacts
+target/
+*hs_err_pid*
+.idea/
+*.iml
+*.iws
+*.MF
+META-INF/MANIFEST.MF
